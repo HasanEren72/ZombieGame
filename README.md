@@ -9,9 +9,10 @@ düşmanlar , zombiler olacaktır. Oyuncu bu düşmanlardan kurtulmak için müc
 
 Oyuncu ve düşmanların can sistemini ve gerekli tüm canvas sistemini efektif bir şekilde yapmayı planlıyorum. Ve gerekli veri kaydetme işlemlerini de yapmayı planlıyorum.
 
+# Oyun 2.Bölüm:
+![diagram](https://github.com/HasanEren72/ZombieGame/blob/main/images/2.bolum.png)
 # Oyun akış diagramı:
 ![diagram](https://github.com/HasanEren72/ZombieGame/blob/main/images/D%C4%B0AGRAM.png)
-
 # Yöntem ve Metodlar
 Unity diğer oyun motorlarına kıyasla daha işlevsel ve çoklu platformlara yönelik Oyun
 geliştirmeyi sağlayan güçlü bir oyun motorudur.
