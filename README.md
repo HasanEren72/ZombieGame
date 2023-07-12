@@ -6,7 +6,6 @@
  Bu çalışmamda amaç , Unity Oyun Geliştirme Platformu kullanılarak PC(Windows )     platformunda çalışan eğlenceli bir 3d Fps  hayatta kalma oyunu yaratmaktır. Oyunda 
 düşmanlar , zombiler olacaktır. Oyuncu bu düşmanlardan kurtulmak için mücadele edecektir.
 
-Oyuncu isteğe bağlı 1.şahıs veya 3. Şahıs şeklinde oynanabilmeyi sağlamanın yanında. Oyuna ugun  puanlama sistemi de hazırlamaktır amacım.
 
 Oyuncu ve düşmanların can sistemini ve gerekli tüm canvas sistemini efektif bir şekilde yapmayı planlıyorum. Ve gerekli veri kaydetme işlemlerini de yapmayı planlıyorum.
 
